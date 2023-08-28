@@ -3,7 +3,7 @@
         @click="toggleOpen()"
     >
         <dt
-            class="bg-white p-4 flex justify-between sticky top-0"
+            class="bg-white p-4 flex justify-between sticky top-0 z-10"
             :class="[open ? 'border-b rounded-t-md' : 'rounded-md']"
         >
             <div class="text-wlgreenlight font-semibold">
