@@ -4,14 +4,8 @@
         <div class="container max-w-screen-lg mx-auto">
 
             <InfoContainer
-                heading="Wedding itinery"
+                heading="Wedding itinerary"
             >
-                <template #intro>
-                    <p>We want to make the most of the venue and our quality time with you - but don't worry, you don't need to spend the full weekend with us! There are lots of things to do at and near the venue, and you are welcome to come and go as you wish.</p>
-
-                    <p>You've already told us which meals you'll be around for, and we're catering accordingly. If you can't remember what you told us, please just ask and we can remind you! You'll be shocked to hear that there is indeed a spreadsheet...</p>
-                </template>
-
                 <InfoBlock
                     heading="Friday"
                 >
@@ -81,12 +75,19 @@
                     <p>The showers have shower gel in them and we'll provide some emergency toiletries. Bring your usual toiletries and towels. Maybe a backup towel if you plan to swim in the river.</p>
                 </InfoBlock>
                 <InfoBlock
-                    heading="There's plenty of parking"
+                    heading="Food"
+                >
+                    <p>You've already told us which meals you'll be around for, and we're catering accordingly.</p>
+                    <p>If you can't remember what you told us, please just ask and we can remind you! (You'll be shocked to hear that there is indeed a spreadsheet...)</p>
+                    <p>For kids, you should already know if they're having a kid's meal for the main feast. Outside of that, we're not doing anything different to the adult food. Feel free to bring whatever works for you.</p>
+                </InfoBlock>
+                <InfoBlock
+                    heading="Parking"
                 >
                     <p>There's a nice long drive through the fields in front of the venue, and they park the cars along the left of it. Just rock up and you'll be guided in.</p>
                 </InfoBlock>
                 <InfoBlock
-                    heading="Book taxis in advance"
+                    heading="Taxis"
                 >
                     <p>We're told that taxis locally need advance booking, so please <strong>book early</strong> to avoid disappointment.</p>
                     <p>
