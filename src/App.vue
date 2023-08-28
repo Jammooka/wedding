@@ -15,30 +15,18 @@
                 <InfoBlock
                     heading="Friday"
                 >
-                    <ul>
-                        <li>4pm - Arrival of those staying on-site</li>
-                        <li>7pm - BBQ & mingling</li>
-                    </ul>
+                    <TimeList
+                        :timeline="fridayTimes"
+                    />
                     <p>You can BYOB if you like, but there is no fridge space so you may want to bring a coolbox (or red wine? Or warm white wine? Jamie doesn't like wine.)</p>
                 </InfoBlock>
 
                 <InfoBlock
                     heading="Saturday: the main celebration"
                 >
-                    <ul>
-                        <li>8am - Tea & coffee available for on-site guests</li>
-                        <li>9:30am - Breakfast available for on-site guests</li>
-                        <li>12pm - Arrival of off-site guests; pre-ceremony drinks & nibbles</li>
-                        <li>1pm - Ceremony</li>
-                        <li>2pm - Post-ceremony drinks & nibbles</li>
-                        <li>3:30pm - Fire feast</li>
-                        <li>4:30pm - Speeches</li>
-                        <li>5:15pm - Tea & coffee available</li>
-                        <li>8pm - First dance</li>
-                        <li>8:30pm - More food</li>
-                        <li>12:00am - Last song</li>
-                        <li>12:30am - Nightcaps </li>
-                    </ul>
+                    <TimeList
+                        :timeline="saturdayTimes"
+                    />
 
                     <p>NB <strong>Saturday is not BYOB.</strong> We will be providing soft drinks and some wine, and there will be a paid bar.</p>
                 </InfoBlock>
@@ -50,23 +38,19 @@
 
                     <p>We'll most likely be chilling at Wilde Lodge catching up with anyone still around. Jamie's bringing a football, Sarah's looking forward to a nap.</p>
 
-                    <ul>
-                        <li>8:30am - Tea & coffee available for on-site guests</li>
-                        <li>9:30am - Breakfast available for on-site guests</li>
-                        <li>1:30pm - Lunch</li>
-                        <li>6:30pm - Dinner</li>
-                    </ul>
+                    <TimeList
+                        :timeline="sundayTimes"
+                    />
+
                     <p>You can BYOB if you like, but we likely won't be drinking all that much.</p>
                 </InfoBlock>
 
                 <InfoBlock
                     heading="Monday"
                 >
-                    <ul>
-                        <li>Packing cars before breakfast</li>
-                        <li>9am - Breakfast available for on-site guests</li>
-                        <li>10am - Depart venue </li>
-                    </ul>
+                    <TimeList
+                        :timeline="mondayTimes"
+                    />
                 </InfoBlock>
             </InfoContainer>
 
@@ -159,4 +143,13 @@ import ElemH1 from '@/components/ElemH1.vue'
 import MainHeader from '@/components/MainHeader.vue';
 import InfoContainer from '@/components/InfoContainer.vue';
 import InfoBlock from '@/components/InfoBlock.vue';
+import TimeList from '@/components/TimeList.vue';
+
+import {
+    fridayTimes,
+    saturdayTimes,
+    sundayTimes,
+    mondayTimes
+} from '@/data/timings.js'
+
 </script>
