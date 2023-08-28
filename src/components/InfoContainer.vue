@@ -1,14 +1,11 @@
 <template>
-    <CopyBlock>
+    <div class="prose prose-p:mt-0 prose-p:mb-4 mx-auto mb-16 text-wlgreen text-lg">
         <ElemH1
             v-if="heading"
         >
             {{ heading }}
         </ElemH1>
         <slot name="intro"></slot>
-    </CopyBlock>
-
-    <div class="prose prose-strong:text-wlgreen mx-auto mb-20 text-wlgreen text-lg">
         <dl>
             <slot></slot>
         </dl>
@@ -17,7 +14,6 @@
 
 <script setup>
 import ElemH1 from '@/components/ElemH1.vue'
-import CopyBlock from '@/components/CopyBlock.vue'
 
 defineProps({
     heading: {

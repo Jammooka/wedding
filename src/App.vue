@@ -74,62 +74,71 @@
                 heading="All the info we can think of"
             >
                 <InfoBlock
-                    heading="What's the dress code?"
+                    heading="Dress code on the wedding day"
                 >
-                    Semi-formal/dressy casual.<br><br>
-                    We hadn't heard of this either. Google it and that's what we've got in mind.<br><br>
-                    We want everyone to feel comfortable but also a bit dressed up.<br><br>
-                    Jamie will be wearing a dark green suit with sneakers and may or may not wear a tie...<br><br>
-                    Sarah will be the one in a wedding dress.<br><br>
-                    There will be a getting ready area opened up near the tent village on Saturday morning. We're told there are mirrors and plug sockets aplenty.<br><br>
-                    The venue is based on a farm, with mainly gravel and grass and some uneven surfaces. We hope to spend some of the wedding outside, so you may want to take that into consideration when choosing an outfit and footwear.<br><br>
-                    For the rest of the weekend, wear what you want. Just something, please.<br><br>
-                    There is a river for wild swimming so feel free to bring your bathers and towels. and we're in Britain, so assume rain will make an appearance at some point.
+                    <p><strong>Semi-formal/dressy casual.</strong></p>
+                    <p>We hadn't heard of this either. Google it and that's what we've got in mind.</p>
+                    <p>We want everyone to feel comfortable but also a bit dressed up.</p>
+                    <p>Jamie will be wearing a dark green suit with sneakers and may or may not wear a tie...</p>
+                    <p>Sarah will be the one in a wedding dress.</p>
+                    <p>The venue is based on a farm, with mainly gravel and grass and some uneven surfaces. We hope to spend some of the wedding outside, so you may want to take that into consideration when choosing an outfit and footwear.</p>
                 </InfoBlock>
                 <InfoBlock
-                    heading="QUESTION"
+                    heading="Dress code on the other days"
                 >
-                    The showers have shower gel in them and we'll provide some emergency toiletries. Bring your usual toiletries and towels. Maybe a backup towel if you plan to swim in the river.
+                    <p>For the rest of the weekend, wear what you want. Just something, please.</p>
+                    <p>There is a river for wild swimming so feel free to bring your bathers and towels.</p>
+                    <p>Obviously we're in Britain, so assume rain will make an appearance at some point.</p>
                 </InfoBlock>
                 <InfoBlock
-                    heading="Is there parking?"
+                    heading="Info for campers"
                 >
-                    Yes! There's a nice long drive through the fields in front of the venue, and they park the cars along the left of it. Just rock up and you'll be guided in.
+                    <p>There will be a getting ready area opened up near the tent village on Saturday morning. We're told there are mirrors and plug sockets aplenty.</p>
+                    <p>The showers have shower gel in them and we'll provide some emergency toiletries. Bring your usual toiletries and towels. Maybe a backup towel if you plan to swim in the river.</p>
                 </InfoBlock>
                 <InfoBlock
-                    heading="What about taxis?"
+                    heading="There's plenty of parking"
                 >
-                    We're told that taxis locally need advance booking, so please <strong>book early</strong> to avoid disappointment.<br><br>
-                    Wolfe Taxi's - Onibury - 01584 856690 M: 07812 207615 / 07864 824406<br>
-                    Radnor and Kington Taxi - 01547 560205<br>
-                    Knighton Taxi - 01547 528165<br>
-                    Arms Cars - Craven Arms - 01588 672 734<br>
-                    R.P Richards - Craven Arms - 01588 672075<br>
-                    Ludlow Taxi - Ludlow - 01584 876666<br>
-                    Annett's Taxi - Ludlow - 01584 878787
+                    <p>There's a nice long drive through the fields in front of the venue, and they park the cars along the left of it. Just rock up and you'll be guided in.</p>
+                </InfoBlock>
+                <InfoBlock
+                    heading="Book taxis in advance"
+                >
+                    <p>We're told that taxis locally need advance booking, so please <strong>book early</strong> to avoid disappointment.</p>
+                    <p>
+                        Wolfe Taxi's - Onibury - 01584 856690 M: 07812 207615 / 07864 824406<br>
+                        Radnor and Kington Taxi - 01547 560205<br>
+                        Knighton Taxi - 01547 528165<br>
+                        Arms Cars - Craven Arms - 01588 672 734<br>
+                        R.P Richards - Craven Arms - 01588 672075<br>
+                        Ludlow Taxi - Ludlow - 01584 876666<br>
+                        Annett's Taxi - Ludlow - 01584 878787
+                    </p>
                 </InfoBlock>
                 <InfoBlock
                     heading="Finding the venue"
                 >
-                    The venue address is Wilde Lodge, Lower Stanage Farm, Knighton, LD7 1LU.<br><br>
-                    Wilde Lodge is usually easy to find via Google Maps, or you can use What3Words: https://w3w.co/resolved.mills.flexibly.
+                    <p>The venue address is Wilde Lodge, Lower Stanage Farm, Knighton, LD7 1LU.</p>
+                    <p>Wilde Lodge is usually easy to find via Google Maps, or you can use What3Words: <a href="https://w3w.co/resolved.mills.flexibly" target="_blank">resolved.mills.flexibly</a>.</p>
                 </InfoBlock>
                 <InfoBlock
                     heading="Photos & social media"
                 >
-                    You're very welcome to take photos of the celebrations during our wedding weekend, but we'd be grateful if you'd hold off sharing them via social media until a few days afterwards.
+                    <p>You're very welcome to take photos of the celebrations during our wedding weekend, but we'd be grateful if you'd hold off sharing them via social media until a few days afterwards.</p>
                 </InfoBlock>
                 <InfoBlock
-                    heading="You want gifts?"
+                    heading="Gift policy"
                 >
-                    We do not expect or ask anything from you; we'll be thrilled to spend time with you on our wedding weekend. If you insist on giving something, we would be so happy if you'd make a small donation to <a href="https://www.annasrescue.org" target="_blank">Anna's Rescue Centre</a> or <a href="https://amiciidogrescue.org.uk/" target="_blank">Amicii Dog Rescue</a>. These feature heavily in the origin stories of Skippy and Panda.
+                    <p>We do not expect or ask anything from you; we'll be thrilled to spend time with you on our wedding weekend. If you insist on giving something, we would be so happy if you'd make a small donation to <a href="https://www.annasrescue.org" target="_blank">Anna's Rescue Centre</a> or <a href="https://amiciidogrescue.org.uk/" target="_blank">Amicii Dog Rescue</a>. These feature heavily in the origin stories of Skippy and Panda.</p>
                 </InfoBlock>
                 <InfoBlock
                     heading="Contact us"
                 >
-                    If in doubt, drop us a line:<br>
-                    Jamie - 07872 572288<br>
-                    Sarah - 07851 496887
+                    <p>If in doubt, drop us a line:</p>
+                    <p>
+                        Jamie - 07872 572288<br>
+                        Sarah - 07851 496887
+                    </p>
                 </InfoBlock>
             </InfoContainer>
 

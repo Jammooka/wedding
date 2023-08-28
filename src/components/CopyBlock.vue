@@ -1,5 +1,5 @@
 <template>
-    <div class="prose prose-strong:text-wlgreen prose-p:mt-0 prose-p:mb-4 mx-auto text-wlgreen text-lg">
+    <div class="prose prose-p:mt-0 prose-p:mb-4 mx-auto text-wlgreen text-lg">
         <slot></slot>
     </div>
 </template>
