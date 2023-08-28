@@ -24,7 +24,7 @@ export const saturdayTimes = [
     },
     {
         time: '1pm',
-        content: 'Ceremony'
+        content: 'Humanist ceremony'
     },
     {
         time: '2pm',
